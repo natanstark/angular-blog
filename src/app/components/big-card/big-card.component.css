@@ -2,9 +2,8 @@
     margin-top: 10px;
     margin-left: 20px;
     margin-right: 20px;
-    
-    height: 450px;
-    width: 400px;
+    height: 620px;
+    width: 750px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -28,4 +27,5 @@
 .big__card--image{
     width: 100%;
     min-width: 400px;
+    margin-right: 20px;
 }
